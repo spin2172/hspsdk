@@ -20,6 +20,7 @@ INDEX
 
 * :ref:`introduction-docs`
 * :ref:`operator-docs`
+* :ref:`test-docs`
 
 
 .. _introduction-docs:
@@ -30,7 +31,7 @@ INDEX
 
    docs/introduction/index
 
-   
+
 .. _operator-docs:
 
 .. toctree::
@@ -38,3 +39,12 @@ INDEX
    :caption: Operator Guide
 
    docs/operator-intro/index
+
+
+.. _test-docs:
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Test Docs
+
+   docs/test/index
