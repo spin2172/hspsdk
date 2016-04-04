@@ -22,7 +22,7 @@ INDEX
 * :ref:`operator-docs`
 
 
-.. _introduction-docs
+.. _introduction-docs:
 
 .. toctree::
    :maxdepth: 2
