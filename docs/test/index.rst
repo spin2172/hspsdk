@@ -4,7 +4,7 @@ Depth 1
 뎁스 1
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 3
     :glob:
 
     test1/index

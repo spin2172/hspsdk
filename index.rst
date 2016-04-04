@@ -44,7 +44,7 @@ INDEX
 .. _test-docs:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :caption: Test Docs
 
    docs/test/index
