@@ -28,13 +28,13 @@ INDEX
    :maxdepth: 2
    :caption: Introduction
 
-   overview
-   terms_in_use
+   docs/introduction/index
 
+   
 .. _operator-docs:
 
 .. toctree::
    :maxdepth: 2
    :caption: Operator Guide
 
-   getting_start
+   docs/operator-intro/index
