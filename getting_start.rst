@@ -1,6 +1,8 @@
 .. _getting_start:
 
 HSP Admin 소개
+=============
+
 HSP SDK를 통한 게임의 운영/관리를 위한 툴인 HSA에 대해 설명합니다.
 
 

@@ -18,11 +18,11 @@ HSP SDK를 처음 접하신다면 HSP SDK Quick Guide로 시작하세요!
 
 INDEX
 
-* :ref:`introduction`
-* :ref:`operator`
+* :ref:`introduction-docs`
+* :ref:`operator-docs`
 
 
-.. _introduction:
+.. _introduction-docs
 
 .. toctree::
    :maxdepth: 2
@@ -31,7 +31,7 @@ INDEX
    overview
    terms_in_use
 
-.. _operator:
+.. _operator-docs:
 
 .. toctree::
    :maxdepth: 2
