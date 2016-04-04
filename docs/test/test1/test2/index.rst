@@ -7,4 +7,4 @@ Depth 3
     :maxdepth: 4
     :glob:
 
-    *
+    test3/index
