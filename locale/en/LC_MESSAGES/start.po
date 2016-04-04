@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, AirenSoft
+# This file is distributed under the same license as the OvenPlayer SDK for Android Developer's Guide package.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: OvenPlayerSDKAndroid\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-30 16:00+0900\n"
+"PO-Revision-Date: 2016-03-28 14:05+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: English (http://www.transifex.com/airensoft/ovenplayersdkandroid/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../start.rst:9
+msgid "간단한 예제"
+msgstr ""
+
+#: ../../start.rst:11
+msgid "OvenMediaPlayer 객체를 생성하고 이벤트 리스너를 등록하는 간단한 예제입니다."
+msgstr ""
+
+#: ../../start.rst:14
+msgid "플레이어 생성"
+msgstr ""
+
+#: ../../start.rst:15
+msgid "OvenMediaPlayer를 멤버 변수로 선언하고 다음과 같이 초기화 하면 플레이어를 생성할 수 있습니다."
+msgstr ""
+
+#: ../../start.rst:40
+msgid "이벤트 리스너 정의"
+msgstr ""
+
+#: ../../start.rst:41
+msgid "다음과 같이 이벤트 리스너를 정의하여 사용하면 플레이어 이벤트를 처리할 수 있습니다."
+msgstr ""
+
+#: ../../start.rst:121
+msgid "Surface 할당"
+msgstr ""
+
+#: ../../start.rst:122
+msgid "비디오 출력을 위한 Surface View의 Surface Holder를 플레이어에 할당해줍니다."
+msgstr ""
+
+#: ../../start.rst:147
+msgid "재생, 일시정지 및 중지"
+msgstr ""
+
+#: ../../start.rst:148
+msgid "기본적인 비디오 제어는 다음과 같은 방식으로 쉽게 연결할 수 있습니다."
+msgstr ""
+
+#: ../../start.rst:160
+msgid "샘플 코드 다운로드"
+msgstr ""
+
+#: ../../start.rst:161
+msgid "다음 URL에서 샘플 코드를 다운로드 할 수 있습니다."
+msgstr ""
+
+#: ../../start.rst:163
+msgid "https://github.com/AirenSoft/OvenPlayer-SDK-for-Android/sample"
+msgstr ""

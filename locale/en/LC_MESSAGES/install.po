@@ -1,0 +1,122 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, AirenSoft
+# This file is distributed under the same license as the OvenPlayer SDK for Android Developer's Guide package.
+# 
+# Translators:
+# Jeheon Han <getroot@airensoft.com>, 2016
+msgid ""
+msgstr ""
+"Project-Id-Version: OvenPlayerSDKAndroid\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-30 16:00+0900\n"
+"PO-Revision-Date: 2016-03-28 14:28+0000\n"
+"Last-Translator: Jeheon Han <getroot@airensoft.com>\n"
+"Language-Team: English (http://www.transifex.com/airensoft/ovenplayersdkandroid/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../install.rst:9
+msgid "설치 및 사용방법"
+msgstr "Installation"
+
+#: ../../install.rst:12
+msgid "다운로드"
+msgstr "Download"
+
+#: ../../install.rst:13
+msgid ""
+"`Github OvenPlayer-SDK-for-Android <https://github.com/AirenSoft/OvenPlayer-"
+"SDK-for-Android>`_ 에서 최신 SDK를 받으십시오. 최종 바이너리는 다음과 같이 구성되어 있습니다."
+msgstr "You can download latest version of SDK from `Github OvenPlayer-SDK-for-Android <https://github.com/AirenSoft/OvenPlayer-SDK-for-Android>`_ Latest SDK is consist as follow. "
+
+#: ../../install.rst:0
+msgid "라이브러리 구성"
+msgstr "Components"
+
+#: ../../install.rst:1
+msgid "파일명"
+msgstr "File name"
+
+#: ../../install.rst:1
+msgid "필수여부"
+msgstr "Requirement"
+
+#: ../../install.rst:1
+msgid "설명"
+msgstr "Description"
+
+#: ../../install.rst:1
+msgid "libOvenPlayerCore.so"
+msgstr "libOvenPlayerCore.so"
+
+#: ../../install.rst:1 ../../install.rst:1
+msgid "O"
+msgstr "O"
+
+#: ../../install.rst:1
+msgid "미디어 플레이어 Native 라이브러리"
+msgstr "Native Player"
+
+#: ../../install.rst:1
+msgid "libOvenPlayerHWCodecV1.so"
+msgstr "libOvenPlayerHWCodecV1.so"
+
+#: ../../install.rst:1 ../../install.rst:1 ../../install.rst:1
+msgid "X"
+msgstr "X"
+
+#: ../../install.rst:1
+msgid "안드로이드 2.X를 위한 하드웨어 코덱 모듈"
+msgstr "Hardware Codec Interface for Android 2.x"
+
+#: ../../install.rst:1
+msgid "libOvenPlayerHWCodecV2.so"
+msgstr "libOvenPlayerHWCodecV2.so"
+
+#: ../../install.rst:1
+msgid "안드로이드 3.X를 위한 하드웨어 코덱 모듈"
+msgstr "Hardware Codec Interface for Android 3.x"
+
+#: ../../install.rst:1
+msgid "libOvenPlayerHWCodecV3.so"
+msgstr "libOvenPlayerHWCodecV3.so"
+
+#: ../../install.rst:1
+msgid "안드로이드 4.X를 위한 하드웨어 코덱 모듈"
+msgstr "Hardware Codec Interface for Android 4.x"
+
+#: ../../install.rst:1
+msgid "com.airensoft.android.Oven.jar"
+msgstr "com.airensoft.android.Oven.jar"
+
+#: ../../install.rst:1
+msgid "Java 인터페이스"
+msgstr "Java Interface"
+
+#: ../../install.rst:26
+msgid "라이브러리 등록"
+msgstr "Register Library"
+
+#: ../../install.rst:27
+msgid "프로젝트의 libs\\\\armeabi 에 .so 파일을 등록하십시오."
+msgstr "Register your .so file to the libs\\\\armeabi of the project."
+
+#: ../../install.rst:32
+msgid ""
+".so 파일을 등록한 후에는 JAR 파일을 Java Build Path에 등록해야 합니다. Menu -> Project -> "
+"Properties를 선택한 뒤 Add Jar 버튼을 클릭하여 com.airensoft.android.Oven.jar 파일을 "
+"등록하십시오."
+msgstr "After you register your .so file, you should register the JAR files to the Java Build Path. Click the Add Jar com.airensoft.android.Oven.jar button to register the file from Menu -> Project -> Properties."
+
+#: ../../install.rst:39
+msgid "Android Menifest 정의"
+msgstr "Android Menifest"
+
+#: ../../install.rst:40
+msgid ""
+"스트리밍 기능을 사용하기 위해서는 INTERNET 권한을 추가하고, 로컬 미디어 파일을 재생하기 위해서는 "
+"WRITE_EXTERNAL_STORAGE 권한을 추가하십시오."
+msgstr "To use the streaming function to add the INTERNET permission, and then to play a local media file, add the WRITE_EXTERNAL_STORAGE permission."

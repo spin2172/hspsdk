@@ -1,0 +1,172 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2016, AirenSoft
+# This file is distributed under the same license as the OvenPlayer SDK for Android Developer's Guide package.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: OvenPlayerSDKAndroid\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-30 16:00+0900\n"
+"PO-Revision-Date: 2016-03-28 14:05+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: English (http://www.transifex.com/airensoft/ovenplayersdkandroid/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../listener.rst:9
+msgid "Event Listener 목록"
+msgstr ""
+
+#: ../../listener.rst:10
+msgid "**OvenMediaPlayer** Class가 제공하는 Event Listener를 나열합니다."
+msgstr ""
+
+#: ../../listener.rst:15
+msgid "setInitCompleteListener"
+msgstr ""
+
+#: ../../listener.rst:18
+msgid "플레이어 생성 후에 발생되는 초기화 완료 이벤트를 등록합니다."
+msgstr ""
+
+#: ../../listener.rst:22 ../../listener.rst:57 ../../listener.rst:93
+#: ../../listener.rst:129 ../../listener.rst:164 ../../listener.rst:217
+#: ../../listener.rst:256
+msgid "초기화 이벤트를 받을 리스너"
+msgstr ""
+
+#: ../../listener.rst:27
+msgid "OvenInitCompleteListener의 인터페이스입니다."
+msgstr ""
+
+#: ../../listener.rst:30 ../../listener.rst:65 ../../listener.rst:101
+#: ../../listener.rst:137 ../../listener.rst:172 ../../listener.rst:225
+#: ../../listener.rst:265
+msgid "플레이어 인스턴스"
+msgstr ""
+
+#: ../../listener.rst:32 ../../listener.rst:68 ../../listener.rst:104
+#: ../../listener.rst:139 ../../listener.rst:178 ../../listener.rst:227
+#: ../../listener.rst:268
+msgid "``예제``"
+msgstr ""
+
+#: ../../listener.rst:50
+msgid "setOnPreparedListener"
+msgstr ""
+
+#: ../../listener.rst:53
+msgid "prepare 함수를 호출 후에 발생되는 재생 준비 완료 이벤트를 등록합니다."
+msgstr ""
+
+#: ../../listener.rst:62
+msgid "OvenPreparedListener 인터페이스입니다."
+msgstr ""
+
+#: ../../listener.rst:66
+msgid "준비 성공 여부"
+msgstr ""
+
+#: ../../listener.rst:86
+msgid "setOnBufferingUpdateListener"
+msgstr ""
+
+#: ../../listener.rst:89
+msgid "버퍼링 진행 상태 이벤트를 등록합니다."
+msgstr ""
+
+#: ../../listener.rst:98
+msgid "OvenBufferingListener 인터페이스입니다."
+msgstr ""
+
+#: ../../listener.rst:102
+msgid "버퍼링 진행률 (0 ~ 100)"
+msgstr ""
+
+#: ../../listener.rst:122
+msgid "setOnSeekCompleteListener"
+msgstr ""
+
+#: ../../listener.rst:125
+msgid "미디어 재생 위치 이동 완료 이벤트를 등록합니다."
+msgstr ""
+
+#: ../../listener.rst:134
+msgid "OvenSeekCompleteListener 인터페이스입니다."
+msgstr ""
+
+#: ../../listener.rst:157
+msgid "setOnErrorListener"
+msgstr ""
+
+#: ../../listener.rst:160
+msgid ""
+"플레이어에서 발생하는 에러를 onError 이벤트를 통해 전달 받을 수 있습니다. 미디어 재생 오류, 네트워크 문제, CPU 성능에 따른"
+" 디코딩 성능 부족 및 기타 에러가 발생하면 호출됩니다."
+msgstr ""
+
+#: ../../listener.rst:169
+msgid "OvenErrorListener 인터페이스입니다."
+msgstr ""
+
+#: ../../listener.rst:173
+msgid ""
+"- OvenErrorCode.OVEN_ERROR_OPEN_FAILED : 파일 열기 실패 - "
+"OvenErrorCode.OVEN_ERROR_PREPARE_FAILED : 연결 실패 - "
+"OvenErrorCode.OVEN_ERROR_PLAYBACK_FAILED : 재생 실패 - "
+"OvenErrorCode.OVEN_ERROR_CODEC_FAILED : 알수없는 코덱"
+msgstr ""
+
+#: ../../listener.rst:174
+msgid "OvenErrorCode.OVEN_ERROR_OPEN_FAILED : 파일 열기 실패"
+msgstr ""
+
+#: ../../listener.rst:175
+msgid "OvenErrorCode.OVEN_ERROR_PREPARE_FAILED : 연결 실패"
+msgstr ""
+
+#: ../../listener.rst:176
+msgid "OvenErrorCode.OVEN_ERROR_PLAYBACK_FAILED : 재생 실패"
+msgstr ""
+
+#: ../../listener.rst:177
+msgid "OvenErrorCode.OVEN_ERROR_CODEC_FAILED : 알수없는 코덱"
+msgstr ""
+
+#: ../../listener.rst:204
+msgid ""
+"public OvenMediaPlayer mMediaPlayer = new OvenMediaPlayer(this); "
+"mMediaPlayer.setOnErrorListener(mErrorListener);"
+msgstr ""
+
+#: ../../listener.rst:210
+msgid "setOnCompletionListener"
+msgstr ""
+
+#: ../../listener.rst:213
+msgid "미디어 재생 완료 이벤트를 등록합니다."
+msgstr ""
+
+#: ../../listener.rst:222
+msgid "OvenCompletionListener 인터페이스입니다."
+msgstr ""
+
+#: ../../listener.rst:249
+msgid "setOnTimedMetatdataUpdateListener"
+msgstr ""
+
+#: ../../listener.rst:253
+msgid "HLS Timed Meta 출력 이벤트를 등록합니다."
+msgstr ""
+
+#: ../../listener.rst:262
+msgid "OvenTimedMetadateUpdated 인터페이스입니다."
+msgstr ""
+
+#: ../../listener.rst:266
+msgid "메타데이터"
+msgstr ""
