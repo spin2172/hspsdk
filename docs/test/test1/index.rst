@@ -4,7 +4,7 @@ Depth 2
 뎁스 2
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 4
     :glob:
 
     *
