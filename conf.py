@@ -66,18 +66,18 @@ source_encoding = 'utf-8-sig'
 master_doc = 'index'
 
 # General information about the project.
-project = 'OvenPlayer SDK for Android Developer\'s Guide'
-copyright = '2016, AirenSoft'
-author = 'AirenSoft'
+project = 'HSP SDK :: Hangame Smart Platform SDK\'s Guide'
+copyright = '2016, NHN Entertainment'
+author = 'NHN Entertainment'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
 # built documents.
 #
 # The short X.Y version.
-version = '2.0'
+version = '1.0'
 # The full version, including alpha/beta/rc tags.
-release = '2.0'
+release = '1.0'
 
 locale_dirs = ['locale/']   # path is example but recommended.
 gettext_compact = False     # optional.
@@ -128,7 +128,7 @@ todo_include_todos = True
 
 # -- Options for PDF output ----------------------------------------------
 pdf_documents = [
-    ( 'index', u'OvenPlayerSDKforAndroid', u'OvenPlayer SDK for Android', u'AirenSoft')
+    ( 'index', u'HSP SDK', u'HSP SDK', u'NHN Entertainment')
 ]
 # A comma-separated list of custom stylesheets. Example:
 pdf_stylesheets = ['sphinx', 'a4','ko']
@@ -286,7 +286,7 @@ html_static_path = ['_static']
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'OvenPlayerDeveloperGuidedoc'
+htmlhelp_basename = 'HangameSmartPlatform-SDK'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -318,8 +318,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'OvenPlayerSDKAndroidDeveloperGuide.tex', 'OvenPlayer SDK for Android Developer\'s Guide',
-     'AirenSoft', 'manual'),
+    (master_doc, 'HSPSDKGuide.tex', 'Hangame Smart Platform SDK\'s Guide',
+     'NHN Entertainment', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -348,7 +348,7 @@ latex_domain_indices = True
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'ovenplayerdeveloperguide', 'OvenPlayer Developer Guide Documentation',
+    (master_doc, 'hspsdkguide', 'Hangame Smart Platform SDK Documentation',
      [author], 1)
 ]
 
@@ -362,8 +362,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'OvenPlayerDeveloperGuide', 'OvenPlayer Developer Guide Documentation',
-     author, 'OvenPlayerDeveloperGuide', 'One line description of project.',
+    (master_doc, 'HSPSDKGuide', 'Hangame Smart Platform SDK Documentation',
+     author, 'HSPSDKGuide', 'One line description of project.',
      'Miscellaneous'),
 ]
 
